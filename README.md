@@ -1,4 +1,4 @@
-# Project 3: Web APIs & Classification
+# Natural Language Processing for Social Media Posts
 
 ### Problem statement
 
